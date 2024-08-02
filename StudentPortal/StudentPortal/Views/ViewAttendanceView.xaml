@@ -7,7 +7,6 @@
             <DataGrid.Columns>
                 <DataGridTextColumn Header="Student ID" Binding="{Binding StudentId}" />
                 <DataGridTextColumn Header="Date" Binding="{Binding Date}" />
-                <DataGridCheckBoxColumn Header="Present" Binding="{Binding Present}" />
             </DataGrid.Columns>
         </DataGrid>
     </Grid>
