@@ -1,0 +1,20 @@
+﻿StudentPortal
+
+
+winexe
+C#
+.cs
+D:\Conestoga\Software programming - brasil\Student-Management-System-Group3\StudentPortal\StudentPortal\obj\Release\net8.0-windows\
+StudentPortal
+none
+false
+TRACE;RELEASE;NET;NET8_0;NETCOREAPP
+D:\Conestoga\Software programming - brasil\Student-Management-System-Group3\StudentPortal\StudentPortal\App.xaml
+61981756670
+
+21933150130
+21685180731
+MainWindow.xaml;Views\AddAttendanceView.xaml;Views\AddStudentView.xaml;Views\EditStudentView.xaml;Views\ViewAttendanceView.xaml;Views\ViewStudentsView.xaml;
+
+False
+

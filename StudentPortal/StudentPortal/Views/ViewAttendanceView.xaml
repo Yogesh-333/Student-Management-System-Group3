@@ -3,11 +3,15 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="View Attendance" Height="400" Width="600">
     <Grid>
-        <DataGrid ItemsSource="{Binding AttendanceRecords}" AutoGenerateColumns="False" Margin="20">
-            <DataGrid.Columns>
-                <DataGridTextColumn Header="Student ID" Binding="{Binding StudentId}" />
-                <DataGridTextColumn Header="Date" Binding="{Binding Date}" />
-            </DataGrid.Columns>
-        </DataGrid>
+        <StackPanel Margin="20">
+            <Calendar x:Name="attendanceCalendar" SelectedDate="{Binding SelectedDate}" 
+                      SelectedDatesChanged="Calendar_SelectedDatesChanged"/>
+            <DataGrid ItemsSource="{Binding AttendanceRecords}" AutoGenerateColumns="False" Margin="10">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Student ID" Binding="{Binding StudentId}" />
+                    <DataGridTextColumn Header="Name" Binding="{Binding Name}" />
+                </DataGrid.Columns>
+            </DataGrid>
+        </StackPanel>
     </Grid>
 </Window>

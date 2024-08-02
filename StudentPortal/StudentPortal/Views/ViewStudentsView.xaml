@@ -23,6 +23,7 @@
                     </DataGridTemplateColumn>
                 </DataGrid.Columns>
             </DataGrid>
+            <Button Content="Export to CSV" Command="{Binding ExportToCsvCommand}" Margin="10"/>
         </StackPanel>
     </Grid>
 </Window>

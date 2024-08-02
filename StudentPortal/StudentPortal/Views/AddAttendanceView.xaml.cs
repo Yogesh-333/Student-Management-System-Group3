@@ -1,4 +1,6 @@
-﻿using System.Windows;
+﻿using System;
+using System.Windows;
+using StudentPortal.MVVM.ViewModels;
 
 namespace StudentPortal.Views
 {
@@ -7,6 +9,7 @@ namespace StudentPortal.Views
         public AddAttendanceView()
         {
             InitializeComponent();
+            DataContext = new AddAttendanceViewModel(); // Set DataContext to the ViewModel
         }
     }
 }

@@ -7,7 +7,8 @@
             <Label Content="Student ID:" />
             <TextBox Text="{Binding StudentId}" />
             <Label Content="Date:" />
-            <DatePicker SelectedDate="{Binding Date}" />
+            <DatePicker x:Name="DatePickerControl" SelectedDate="{Binding Date}" />
+            <!-- Ensure x:Name is here -->
             <Label Content="Present:" />
             <CheckBox IsChecked="{Binding Present}" />
             <Button Content="Add Attendance" Command="{Binding AddAttendanceCommand}" Margin="10" />

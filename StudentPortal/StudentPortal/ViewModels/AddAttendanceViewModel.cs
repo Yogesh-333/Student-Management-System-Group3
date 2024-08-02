@@ -1,5 +1,4 @@
-﻿
-using System;
+﻿using System;
 using System.Windows.Input;
 using StudentPortal.Models;
 using StudentPortal.Services;
@@ -9,7 +8,7 @@ namespace StudentPortal.MVVM.ViewModels
     public class AddAttendanceViewModel : BaseViewModel
     {
         private int _studentId;
-        private DateTime _date;
+        private DateTime _date; // Initialize this to today's date
         private bool _isPresent;
 
         public int StudentId
@@ -34,6 +33,7 @@ namespace StudentPortal.MVVM.ViewModels
 
         public AddAttendanceViewModel()
         {
+            Date = DateTime.Today; // Initialize the Date property to today's date
             AddAttendanceCommand = new RelayCommand(AddAttendance);
         }
 
