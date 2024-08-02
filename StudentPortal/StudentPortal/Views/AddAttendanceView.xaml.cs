@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Windows;
+using System.Windows.Controls;
 using StudentPortal.MVVM.ViewModels;
 
 namespace StudentPortal.Views
@@ -9,7 +10,15 @@ namespace StudentPortal.Views
         public AddAttendanceView()
         {
             InitializeComponent();
-            DataContext = new AddAttendanceViewModel(); // Set DataContext to the ViewModel
+            this.DataContext = new AddAttendanceViewModel();
+        }
+
+        private void Calendar_SelectedDatesChanged(object sender, SelectionChangedEventArgs e)
+        {
+            if (sender is Calendar calendar && calendar.SelectedDate.HasValue)
+            {
+                (this.DataContext as AddAttendanceViewModel)?.LoadStudentsForDate(calendar.SelectedDate.Value);
+            }
         }
     }
 }

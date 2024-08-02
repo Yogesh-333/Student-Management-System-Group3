@@ -70,5 +70,28 @@ namespace StudentPortal.Services
                     .ToList();
             }
         }
+
+        public static void AddOrUpdateAttendance(Attendance attendance)
+        {
+            using (var context = new StudentPortalDbContext())
+            {
+                var existingAttendance = context.AttendanceRecords
+                    .FirstOrDefault(a => a.StudentId == attendance.StudentId && a.Date == attendance.Date);
+
+                if (existingAttendance != null)
+                {
+                    existingAttendance.IsPresent = attendance.IsPresent;
+                    existingAttendance.Name = attendance.Name; // Update Name
+                    context.AttendanceRecords.Update(existingAttendance);
+                }
+                else
+                {
+                    context.AttendanceRecords.Add(attendance);
+                }
+
+                context.SaveChanges();
+            }
+        }
     }
 }
+

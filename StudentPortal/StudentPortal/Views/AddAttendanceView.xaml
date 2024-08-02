@@ -1,17 +1,26 @@
 <Window x:Class="StudentPortal.Views.AddAttendanceView"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        Title="Add Attendance" Height="300" Width="400">
+        Title="Add Attendance" Height="400" Width="600">
     <Grid>
         <StackPanel Margin="20">
-            <Label Content="Student ID:" />
-            <TextBox Text="{Binding StudentId}" />
-            <Label Content="Date:" />
-            <DatePicker x:Name="DatePickerControl" SelectedDate="{Binding Date}" />
-            <!-- Ensure x:Name is here -->
-            <Label Content="Present:" />
-            <CheckBox IsChecked="{Binding Present}" />
-            <Button Content="Add Attendance" Command="{Binding AddAttendanceCommand}" Margin="10" />
+            <Label Content="Select Date:" />
+            <Calendar x:Name="DatePickerControl" SelectedDate="{Binding Date}" SelectedDatesChanged="Calendar_SelectedDatesChanged"/>
+            <Label Content="Students List:" />
+            <DataGrid ItemsSource="{Binding Students}" AutoGenerateColumns="False" Margin="10">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="ID" Binding="{Binding Id}" />
+                    <DataGridTextColumn Header="Name" Binding="{Binding Name}" />
+                    <DataGridTemplateColumn Header="Present">
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <CheckBox IsChecked="{Binding IsPresent, Mode=TwoWay}" />
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+                </DataGrid.Columns>
+            </DataGrid>
+            <Button Content="Save Attendance" Command="{Binding SaveAttendanceCommand}" Margin="10" />
         </StackPanel>
     </Grid>
 </Window>
