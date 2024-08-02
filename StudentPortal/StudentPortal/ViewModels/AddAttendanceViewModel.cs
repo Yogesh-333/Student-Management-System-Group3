@@ -9,8 +9,8 @@ namespace StudentPortal.MVVM.ViewModels
     public class AddAttendanceViewModel : BaseViewModel
     {
         private int _studentId;
-        private DateTime _date = DateTime.Today;
-        private bool _present;
+        private DateTime _date;
+        private bool _isPresent;
 
         public int StudentId
         {
@@ -24,10 +24,10 @@ namespace StudentPortal.MVVM.ViewModels
             set => SetProperty(ref _date, value);
         }
 
-        public bool Present
+        public bool IsPresent
         {
-            get => _present;
-            set => SetProperty(ref _present, value);
+            get => _isPresent;
+            set => SetProperty(ref _isPresent, value);
         }
 
         public ICommand AddAttendanceCommand { get; }
@@ -39,13 +39,13 @@ namespace StudentPortal.MVVM.ViewModels
 
         private void AddAttendance()
         {
-            Database.AddAttendance(new Models.Attendance
+            var attendance = new Attendance
             {
                 StudentId = StudentId,
                 Date = Date,
-                IsPresent = Present
-                
-            });
+                IsPresent = IsPresent
+            };
+            Database.AddAttendance(attendance);
         }
     }
 }
