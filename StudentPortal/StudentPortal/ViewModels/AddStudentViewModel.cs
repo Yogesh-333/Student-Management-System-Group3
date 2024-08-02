@@ -1,5 +1,6 @@
 ﻿
 using System;
+using System.Windows.Controls;
 using System.Windows.Input;
 using StudentPortal.Services;
 
@@ -8,7 +9,9 @@ namespace StudentPortal.MVVM.ViewModels
     public class AddStudentViewModel : BaseViewModel
     {
         private string _name;
-        private string _email;
+        private int _age;
+        private string _coursename;
+        private string _contactnumber;
         private DateTime _dateOfBirth;
 
         public string Name
@@ -16,18 +19,24 @@ namespace StudentPortal.MVVM.ViewModels
             get => _name;
             set => SetProperty(ref _name, value);
         }
-
-        public string Email
+        public string CourseName
         {
-            get => _email;
-            set => SetProperty(ref _email, value);
+            get => _coursename;
+            set => SetProperty(ref _coursename, value);
+        }
+        public string ContactNumber
+        {
+            get => _contactnumber;
+            set => SetProperty(ref _contactnumber, value);
         }
 
-        public DateTime DateOfBirth
+
+        public int Age
         {
-            get => _dateOfBirth;
-            set => SetProperty(ref _dateOfBirth, value);
+            get => _age;
+            set => SetProperty(ref _age, value);
         }
+
 
         public ICommand AddStudentCommand { get; }
 
@@ -41,8 +50,9 @@ namespace StudentPortal.MVVM.ViewModels
             Database.AddStudent(new Models.Student
             {
                 Name = Name,
-                Email = Email,
-                DateOfBirth = DateOfBirth
+                Age = Age,
+                CourseName = CourseName,
+                ContactNumber = ContactNumber
             });
         }
     }

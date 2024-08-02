@@ -3,36 +3,64 @@
   "WorkspaceRootPath": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\StudentPortal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1900E69C-27FD-4B7C-AC4B-CABD5CC28581}|StudentPortal\\StudentPortal.csproj|d:\\conestoga\\software programming - brasil\\student-management-system-group3\\studentportal\\studentportal\\viewmodels\\viewattendanceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1900E69C-27FD-4B7C-AC4B-CABD5CC28581}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\viewmodels\\viewattendanceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1900E69C-27FD-4B7C-AC4B-CABD5CC28581}|StudentPortal\\StudentPortal.csproj|d:\\conestoga\\software programming - brasil\\student-management-system-group3\\studentportal\\studentportal\\services\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1900E69C-27FD-4B7C-AC4B-CABD5CC28581}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\services\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1900E69C-27FD-4B7C-AC4B-CABD5CC28581}|StudentPortal\\StudentPortal.csproj|d:\\conestoga\\software programming - brasil\\student-management-system-group3\\studentportal\\studentportal\\views\\editstudentview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1900E69C-27FD-4B7C-AC4B-CABD5CC28581}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\views\\editstudentview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1900E69C-27FD-4B7C-AC4B-CABD5CC28581}|StudentPortal\\StudentPortal.csproj|d:\\conestoga\\software programming - brasil\\student-management-system-group3\\studentportal\\studentportal\\views\\addstudentview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1900E69C-27FD-4B7C-AC4B-CABD5CC28581}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\views\\addstudentview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1900E69C-27FD-4B7C-AC4B-CABD5CC28581}|StudentPortal\\StudentPortal.csproj|d:\\conestoga\\software programming - brasil\\student-management-system-group3\\studentportal\\studentportal\\viewmodels\\viewstudentsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1900E69C-27FD-4B7C-AC4B-CABD5CC28581}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\viewmodels\\viewstudentsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1900E69C-27FD-4B7C-AC4B-CABD5CC28581}|StudentPortal\\StudentPortal.csproj|d:\\conestoga\\software programming - brasil\\student-management-system-group3\\studentportal\\studentportal\\viewmodels\\editstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1900E69C-27FD-4B7C-AC4B-CABD5CC28581}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\viewmodels\\editstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1900E69C-27FD-4B7C-AC4B-CABD5CC28581}|StudentPortal\\StudentPortal.csproj|d:\\conestoga\\software programming - brasil\\student-management-system-group3\\studentportal\\studentportal\\views\\viewstudentsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1900E69C-27FD-4B7C-AC4B-CABD5CC28581}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\views\\viewstudentsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1900E69C-27FD-4B7C-AC4B-CABD5CC28581}|StudentPortal\\StudentPortal.csproj|d:\\conestoga\\software programming - brasil\\student-management-system-group3\\studentportal\\studentportal\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1900E69C-27FD-4B7C-AC4B-CABD5CC28581}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{1900E69C-27FD-4B7C-AC4B-CABD5CC28581}|StudentPortal\\StudentPortal.csproj|d:\\conestoga\\software programming - brasil\\student-management-system-group3\\studentportal\\studentportal\\views\\editstudentview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1900E69C-27FD-4B7C-AC4B-CABD5CC28581}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\views\\editstudentview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1900E69C-27FD-4B7C-AC4B-CABD5CC28581}|StudentPortal\\StudentPortal.csproj|d:\\conestoga\\software programming - brasil\\student-management-system-group3\\studentportal\\studentportal\\views\\addstudentview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1900E69C-27FD-4B7C-AC4B-CABD5CC28581}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\views\\addstudentview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1900E69C-27FD-4B7C-AC4B-CABD5CC28581}|StudentPortal\\StudentPortal.csproj|d:\\conestoga\\software programming - brasil\\student-management-system-group3\\studentportal\\studentportal\\views\\editstudentview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1900E69C-27FD-4B7C-AC4B-CABD5CC28581}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\views\\editstudentview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1900E69C-27FD-4B7C-AC4B-CABD5CC28581}|StudentPortal\\StudentPortal.csproj|d:\\conestoga\\software programming - brasil\\student-management-system-group3\\studentportal\\studentportal\\views\\addstudentview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1900E69C-27FD-4B7C-AC4B-CABD5CC28581}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\views\\addstudentview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1900E69C-27FD-4B7C-AC4B-CABD5CC28581}|StudentPortal\\StudentPortal.csproj|d:\\conestoga\\software programming - brasil\\student-management-system-group3\\studentportal\\studentportal\\views\\viewattendanceview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1900E69C-27FD-4B7C-AC4B-CABD5CC28581}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\views\\viewattendanceview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1900E69C-27FD-4B7C-AC4B-CABD5CC28581}|StudentPortal\\StudentPortal.csproj|d:\\conestoga\\software programming - brasil\\student-management-system-group3\\studentportal\\studentportal\\viewmodels\\addattendanceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1900E69C-27FD-4B7C-AC4B-CABD5CC28581}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\viewmodels\\addattendanceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1900E69C-27FD-4B7C-AC4B-CABD5CC28581}|StudentPortal\\StudentPortal.csproj|d:\\conestoga\\software programming - brasil\\student-management-system-group3\\studentportal\\studentportal\\viewmodels\\addstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1900E69C-27FD-4B7C-AC4B-CABD5CC28581}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\viewmodels\\addstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1900E69C-27FD-4B7C-AC4B-CABD5CC28581}|StudentPortal\\StudentPortal.csproj|d:\\conestoga\\software programming - brasil\\student-management-system-group3\\studentportal\\studentportal\\views\\addattendanceview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1900E69C-27FD-4B7C-AC4B-CABD5CC28581}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\views\\addattendanceview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1900E69C-27FD-4B7C-AC4B-CABD5CC28581}|StudentPortal\\StudentPortal.csproj|d:\\conestoga\\software programming - brasil\\student-management-system-group3\\studentportal\\studentportal\\services\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1900E69C-27FD-4B7C-AC4B-CABD5CC28581}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\services\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1900E69C-27FD-4B7C-AC4B-CABD5CC28581}|StudentPortal\\StudentPortal.csproj|d:\\conestoga\\software programming - brasil\\student-management-system-group3\\studentportal\\studentportal\\viewmodels\\editstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1900E69C-27FD-4B7C-AC4B-CABD5CC28581}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\viewmodels\\editstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1900E69C-27FD-4B7C-AC4B-CABD5CC28581}|StudentPortal\\StudentPortal.csproj|d:\\conestoga\\software programming - brasil\\student-management-system-group3\\studentportal\\studentportal\\viewmodels\\viewattendanceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1900E69C-27FD-4B7C-AC4B-CABD5CC28581}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\viewmodels\\viewattendanceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1900E69C-27FD-4B7C-AC4B-CABD5CC28581}|StudentPortal\\StudentPortal.csproj|d:\\conestoga\\software programming - brasil\\student-management-system-group3\\studentportal\\studentportal\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1900E69C-27FD-4B7C-AC4B-CABD5CC28581}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1900E69C-27FD-4B7C-AC4B-CABD5CC28581}|StudentPortal\\StudentPortal.csproj|d:\\conestoga\\software programming - brasil\\student-management-system-group3\\studentportal\\studentportal\\views\\viewstudentsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,16 +71,8 @@
       "RelativeMoniker": "D:0:0:{1900E69C-27FD-4B7C-AC4B-CABD5CC28581}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\models\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1900E69C-27FD-4B7C-AC4B-CABD5CC28581}|StudentPortal\\StudentPortal.csproj|d:\\conestoga\\software programming - brasil\\student-management-system-group3\\studentportal\\studentportal\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1900E69C-27FD-4B7C-AC4B-CABD5CC28581}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1900E69C-27FD-4B7C-AC4B-CABD5CC28581}|StudentPortal\\StudentPortal.csproj|d:\\conestoga\\software programming - brasil\\student-management-system-group3\\studentportal\\studentportal\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1900E69C-27FD-4B7C-AC4B-CABD5CC28581}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1900E69C-27FD-4B7C-AC4B-CABD5CC28581}|StudentPortal\\StudentPortal.csproj|d:\\conestoga\\software programming - brasil\\student-management-system-group3\\studentportal\\studentportal\\views\\editstudentview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{1900E69C-27FD-4B7C-AC4B-CABD5CC28581}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\views\\editstudentview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1900E69C-27FD-4B7C-AC4B-CABD5CC28581}|StudentPortal\\StudentPortal.csproj|d:\\conestoga\\software programming - brasil\\student-management-system-group3\\studentportal\\studentportal\\data\\studentportaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -75,20 +95,8 @@
       "RelativeMoniker": "D:0:0:{1900E69C-27FD-4B7C-AC4B-CABD5CC28581}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\views\\viewattendanceview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1900E69C-27FD-4B7C-AC4B-CABD5CC28581}|StudentPortal\\StudentPortal.csproj|d:\\conestoga\\software programming - brasil\\student-management-system-group3\\studentportal\\studentportal\\viewmodels\\addstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1900E69C-27FD-4B7C-AC4B-CABD5CC28581}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\viewmodels\\addstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1900E69C-27FD-4B7C-AC4B-CABD5CC28581}|StudentPortal\\StudentPortal.csproj|d:\\conestoga\\software programming - brasil\\student-management-system-group3\\studentportal\\studentportal\\views\\addattendanceview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1900E69C-27FD-4B7C-AC4B-CABD5CC28581}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\views\\addattendanceview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1900E69C-27FD-4B7C-AC4B-CABD5CC28581}|StudentPortal\\StudentPortal.csproj|d:\\conestoga\\software programming - brasil\\student-management-system-group3\\studentportal\\studentportal\\views\\addattendanceview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{1900E69C-27FD-4B7C-AC4B-CABD5CC28581}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\views\\addattendanceview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1900E69C-27FD-4B7C-AC4B-CABD5CC28581}|StudentPortal\\StudentPortal.csproj|d:\\conestoga\\software programming - brasil\\student-management-system-group3\\studentportal\\studentportal\\views\\addstudentview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{1900E69C-27FD-4B7C-AC4B-CABD5CC28581}|StudentPortal\\StudentPortal.csproj|solutionrelative:studentportal\\views\\addstudentview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1900E69C-27FD-4B7C-AC4B-CABD5CC28581}|StudentPortal\\StudentPortal.csproj|d:\\conestoga\\software programming - brasil\\student-management-system-group3\\studentportal\\studentportal\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -110,72 +118,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ViewStudentsView.xaml.cs",
-              "DocumentMoniker": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\StudentPortal\\StudentPortal\\Views\\ViewStudentsView.xaml.cs",
-              "RelativeDocumentMoniker": "StudentPortal\\Views\\ViewStudentsView.xaml.cs",
-              "ToolTip": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\StudentPortal\\StudentPortal\\Views\\ViewStudentsView.xaml.cs",
-              "RelativeToolTip": "StudentPortal\\Views\\ViewStudentsView.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T17:03:17.625Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ViewStudentsViewModel.cs",
-              "DocumentMoniker": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\StudentPortal\\StudentPortal\\ViewModels\\ViewStudentsViewModel.cs",
-              "RelativeDocumentMoniker": "StudentPortal\\ViewModels\\ViewStudentsViewModel.cs",
-              "ToolTip": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\StudentPortal\\StudentPortal\\ViewModels\\ViewStudentsViewModel.cs",
-              "RelativeToolTip": "StudentPortal\\ViewModels\\ViewStudentsViewModel.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAAwDEAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T16:33:41.136Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AddStudentView.xaml.cs",
-              "DocumentMoniker": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\StudentPortal\\StudentPortal\\Views\\AddStudentView.xaml.cs",
-              "RelativeDocumentMoniker": "StudentPortal\\Views\\AddStudentView.xaml.cs",
-              "ToolTip": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\StudentPortal\\StudentPortal\\Views\\AddStudentView.xaml.cs",
-              "RelativeToolTip": "StudentPortal\\Views\\AddStudentView.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T16:58:07.463Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Database.cs",
-              "DocumentMoniker": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\StudentPortal\\StudentPortal\\Services\\Database.cs",
-              "RelativeDocumentMoniker": "StudentPortal\\Services\\Database.cs",
-              "ToolTip": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\StudentPortal\\StudentPortal\\Services\\Database.cs",
-              "RelativeToolTip": "StudentPortal\\Services\\Database.cs",
-              "ViewState": "AQIAADAAAAAAAAAAAAAowDkAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T16:38:24.007Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ViewAttendanceViewModel.cs",
-              "DocumentMoniker": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\StudentPortal\\StudentPortal\\ViewModels\\ViewAttendanceViewModel.cs",
-              "RelativeDocumentMoniker": "StudentPortal\\ViewModels\\ViewAttendanceViewModel.cs",
-              "ToolTip": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\StudentPortal\\StudentPortal\\ViewModels\\ViewAttendanceViewModel.cs*",
-              "RelativeToolTip": "StudentPortal\\ViewModels\\ViewAttendanceViewModel.cs*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T18:32:42.165Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "EditStudentView.xaml.cs",
               "DocumentMoniker": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\StudentPortal\\StudentPortal\\Views\\EditStudentView.xaml.cs",
               "RelativeDocumentMoniker": "StudentPortal\\Views\\EditStudentView.xaml.cs",
@@ -188,7 +131,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
+              "Title": "AddStudentView.xaml.cs",
+              "DocumentMoniker": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\StudentPortal\\StudentPortal\\Views\\AddStudentView.xaml.cs",
+              "RelativeDocumentMoniker": "StudentPortal\\Views\\AddStudentView.xaml.cs",
+              "ToolTip": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\StudentPortal\\StudentPortal\\Views\\AddStudentView.xaml.cs",
+              "RelativeToolTip": "StudentPortal\\Views\\AddStudentView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T16:58:07.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "RelayCommand.cs",
               "DocumentMoniker": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\StudentPortal\\StudentPortal\\RelayCommand.cs",
               "RelativeDocumentMoniker": "StudentPortal\\RelayCommand.cs",
@@ -201,46 +157,56 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Attendance.cs",
-              "DocumentMoniker": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\StudentPortal\\StudentPortal\\Models\\Attendance.cs",
-              "RelativeDocumentMoniker": "StudentPortal\\Models\\Attendance.cs",
-              "ToolTip": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\StudentPortal\\StudentPortal\\Models\\Attendance.cs",
-              "RelativeToolTip": "StudentPortal\\Models\\Attendance.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T16:31:07.851Z",
+              "DocumentIndex": 1,
+              "Title": "ViewStudentsView.xaml",
+              "DocumentMoniker": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\StudentPortal\\StudentPortal\\Views\\ViewStudentsView.xaml",
+              "RelativeDocumentMoniker": "StudentPortal\\Views\\ViewStudentsView.xaml",
+              "ToolTip": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\StudentPortal\\StudentPortal\\Views\\ViewStudentsView.xaml",
+              "RelativeToolTip": "StudentPortal\\Views\\ViewStudentsView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-02T19:50:06.447Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Student.cs",
-              "DocumentMoniker": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\StudentPortal\\StudentPortal\\Models\\Student.cs",
-              "RelativeDocumentMoniker": "StudentPortal\\Models\\Student.cs",
-              "ToolTip": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\StudentPortal\\StudentPortal\\Models\\Student.cs",
-              "RelativeToolTip": "StudentPortal\\Models\\Student.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAVAAAA",
+              "DocumentIndex": 0,
+              "Title": "ViewStudentsViewModel.cs",
+              "DocumentMoniker": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\StudentPortal\\StudentPortal\\ViewModels\\ViewStudentsViewModel.cs",
+              "RelativeDocumentMoniker": "StudentPortal\\ViewModels\\ViewStudentsViewModel.cs",
+              "ToolTip": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\StudentPortal\\StudentPortal\\ViewModels\\ViewStudentsViewModel.cs",
+              "RelativeToolTip": "StudentPortal\\ViewModels\\ViewStudentsViewModel.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAswCkAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T16:30:25.868Z",
+              "WhenOpened": "2024-08-02T16:33:41.136Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "EditStudentViewModel.cs",
-              "DocumentMoniker": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\StudentPortal\\StudentPortal\\ViewModels\\EditStudentViewModel.cs",
-              "RelativeDocumentMoniker": "StudentPortal\\ViewModels\\EditStudentViewModel.cs",
-              "ToolTip": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\StudentPortal\\StudentPortal\\ViewModels\\EditStudentViewModel.cs",
-              "RelativeToolTip": "StudentPortal\\ViewModels\\EditStudentViewModel.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAD4vxAAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T18:34:10.258Z",
+              "DocumentIndex": 3,
+              "Title": "EditStudentView.xaml",
+              "DocumentMoniker": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\StudentPortal\\StudentPortal\\Views\\EditStudentView.xaml",
+              "RelativeDocumentMoniker": "StudentPortal\\Views\\EditStudentView.xaml",
+              "ToolTip": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\StudentPortal\\StudentPortal\\Views\\EditStudentView.xaml",
+              "RelativeToolTip": "StudentPortal\\Views\\EditStudentView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-02T18:33:28.839Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
+              "Title": "AddStudentView.xaml",
+              "DocumentMoniker": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\StudentPortal\\StudentPortal\\Views\\AddStudentView.xaml",
+              "RelativeDocumentMoniker": "StudentPortal\\Views\\AddStudentView.xaml",
+              "ToolTip": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\StudentPortal\\StudentPortal\\Views\\AddStudentView.xaml",
+              "RelativeToolTip": "StudentPortal\\Views\\AddStudentView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-02T16:56:57.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "AddAttendanceViewModel.cs",
               "DocumentMoniker": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\StudentPortal\\StudentPortal\\ViewModels\\AddAttendanceViewModel.cs",
               "RelativeDocumentMoniker": "StudentPortal\\ViewModels\\AddAttendanceViewModel.cs",
@@ -253,7 +219,122 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ViewAttendanceView.xaml",
+              "DocumentMoniker": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\StudentPortal\\StudentPortal\\Views\\ViewAttendanceView.xaml",
+              "RelativeDocumentMoniker": "StudentPortal\\Views\\ViewAttendanceView.xaml",
+              "ToolTip": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\StudentPortal\\StudentPortal\\Views\\ViewAttendanceView.xaml",
+              "RelativeToolTip": "StudentPortal\\Views\\ViewAttendanceView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-02T19:06:49.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddStudentViewModel.cs",
+              "DocumentMoniker": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\StudentPortal\\StudentPortal\\ViewModels\\AddStudentViewModel.cs",
+              "RelativeDocumentMoniker": "StudentPortal\\ViewModels\\AddStudentViewModel.cs",
+              "ToolTip": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\StudentPortal\\StudentPortal\\ViewModels\\AddStudentViewModel.cs",
+              "RelativeToolTip": "StudentPortal\\ViewModels\\AddStudentViewModel.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAhwDYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T17:58:09.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddAttendanceView.xaml",
+              "DocumentMoniker": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\StudentPortal\\StudentPortal\\Views\\AddAttendanceView.xaml",
+              "RelativeDocumentMoniker": "StudentPortal\\Views\\AddAttendanceView.xaml",
+              "ToolTip": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\StudentPortal\\StudentPortal\\Views\\AddAttendanceView.xaml",
+              "RelativeToolTip": "StudentPortal\\Views\\AddAttendanceView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-02T17:04:14.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Database.cs",
+              "DocumentMoniker": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\StudentPortal\\StudentPortal\\Services\\Database.cs",
+              "RelativeDocumentMoniker": "StudentPortal\\Services\\Database.cs",
+              "ToolTip": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\StudentPortal\\StudentPortal\\Services\\Database.cs",
+              "RelativeToolTip": "StudentPortal\\Services\\Database.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAApwBMAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T16:38:24.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ViewAttendanceViewModel.cs",
+              "DocumentMoniker": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\StudentPortal\\StudentPortal\\ViewModels\\ViewAttendanceViewModel.cs",
+              "RelativeDocumentMoniker": "StudentPortal\\ViewModels\\ViewAttendanceViewModel.cs",
+              "ToolTip": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\StudentPortal\\StudentPortal\\ViewModels\\ViewAttendanceViewModel.cs",
+              "RelativeToolTip": "StudentPortal\\ViewModels\\ViewAttendanceViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T18:32:42.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EditStudentViewModel.cs",
+              "DocumentMoniker": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\StudentPortal\\StudentPortal\\ViewModels\\EditStudentViewModel.cs",
+              "RelativeDocumentMoniker": "StudentPortal\\ViewModels\\EditStudentViewModel.cs",
+              "ToolTip": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\StudentPortal\\StudentPortal\\ViewModels\\EditStudentViewModel.cs",
+              "RelativeToolTip": "StudentPortal\\ViewModels\\EditStudentViewModel.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAA9wAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T18:34:10.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\StudentPortal\\StudentPortal\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "StudentPortal\\Models\\Student.cs",
+              "ToolTip": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\StudentPortal\\StudentPortal\\Models\\Student.cs",
+              "RelativeToolTip": "StudentPortal\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T16:30:25.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 15,
+              "Title": "ViewStudentsView.xaml.cs",
+              "DocumentMoniker": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\StudentPortal\\StudentPortal\\Views\\ViewStudentsView.xaml.cs",
+              "RelativeDocumentMoniker": "StudentPortal\\Views\\ViewStudentsView.xaml.cs",
+              "ToolTip": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\StudentPortal\\StudentPortal\\Views\\ViewStudentsView.xaml.cs",
+              "RelativeToolTip": "StudentPortal\\Views\\ViewStudentsView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T17:03:17.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Attendance.cs",
+              "DocumentMoniker": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\StudentPortal\\StudentPortal\\Models\\Attendance.cs",
+              "RelativeDocumentMoniker": "StudentPortal\\Models\\Attendance.cs",
+              "ToolTip": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\StudentPortal\\StudentPortal\\Models\\Attendance.cs",
+              "RelativeToolTip": "StudentPortal\\Models\\Attendance.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T16:31:07.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "MainWindowViewModel.cs",
               "DocumentMoniker": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\StudentPortal\\StudentPortal\\ViewModels\\MainWindowViewModel.cs",
               "RelativeDocumentMoniker": "StudentPortal\\ViewModels\\MainWindowViewModel.cs",
@@ -266,19 +347,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "EditStudentView.xaml",
-              "DocumentMoniker": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\StudentPortal\\StudentPortal\\Views\\EditStudentView.xaml",
-              "RelativeDocumentMoniker": "StudentPortal\\Views\\EditStudentView.xaml",
-              "ToolTip": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\StudentPortal\\StudentPortal\\Views\\EditStudentView.xaml",
-              "RelativeToolTip": "StudentPortal\\Views\\EditStudentView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-08-02T18:33:28.839Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 17,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\StudentPortal\\StudentPortal\\App.xaml.cs",
               "RelativeDocumentMoniker": "StudentPortal\\App.xaml.cs",
@@ -291,7 +360,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\StudentPortal\\StudentPortal\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "StudentPortal\\MainWindow.xaml.cs",
@@ -304,7 +373,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "StudentPortalDbContext.cs",
               "DocumentMoniker": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\StudentPortal\\StudentPortal\\Data\\StudentPortalDbContext.cs",
               "RelativeDocumentMoniker": "StudentPortal\\Data\\StudentPortalDbContext.cs",
@@ -317,7 +386,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\StudentPortal\\StudentPortal\\MainWindow.xaml",
               "RelativeDocumentMoniker": "StudentPortal\\MainWindow.xaml",
@@ -329,20 +398,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "AddStudentViewModel.cs",
-              "DocumentMoniker": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\StudentPortal\\StudentPortal\\ViewModels\\AddStudentViewModel.cs",
-              "RelativeDocumentMoniker": "StudentPortal\\ViewModels\\AddStudentViewModel.cs",
-              "ToolTip": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\StudentPortal\\StudentPortal\\ViewModels\\AddStudentViewModel.cs",
-              "RelativeToolTip": "StudentPortal\\ViewModels\\AddStudentViewModel.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAowCgAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T17:58:09.907Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
               "Title": "ViewAttendanceView.xaml.cs",
               "DocumentMoniker": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\StudentPortal\\StudentPortal\\Views\\ViewAttendanceView.xaml.cs",
               "RelativeDocumentMoniker": "StudentPortal\\Views\\ViewAttendanceView.xaml.cs",
@@ -355,7 +411,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "AddAttendanceView.xaml.cs",
               "DocumentMoniker": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\StudentPortal\\StudentPortal\\Views\\AddAttendanceView.xaml.cs",
               "RelativeDocumentMoniker": "StudentPortal\\Views\\AddAttendanceView.xaml.cs",
@@ -368,31 +424,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "AddAttendanceView.xaml",
-              "DocumentMoniker": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\StudentPortal\\StudentPortal\\Views\\AddAttendanceView.xaml",
-              "RelativeDocumentMoniker": "StudentPortal\\Views\\AddAttendanceView.xaml",
-              "ToolTip": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\StudentPortal\\StudentPortal\\Views\\AddAttendanceView.xaml",
-              "RelativeToolTip": "StudentPortal\\Views\\AddAttendanceView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-08-02T17:04:14.583Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "AddStudentView.xaml",
-              "DocumentMoniker": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\StudentPortal\\StudentPortal\\Views\\AddStudentView.xaml",
-              "RelativeDocumentMoniker": "StudentPortal\\Views\\AddStudentView.xaml",
-              "ToolTip": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\StudentPortal\\StudentPortal\\Views\\AddStudentView.xaml",
-              "RelativeToolTip": "StudentPortal\\Views\\AddStudentView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-08-02T16:56:57.614Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "App.xaml",
               "DocumentMoniker": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\StudentPortal\\StudentPortal\\App.xaml",
               "RelativeDocumentMoniker": "StudentPortal\\App.xaml",
@@ -404,7 +436,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "BaseViewModel.cs",
               "DocumentMoniker": "D:\\Conestoga\\Software programming - brasil\\Student-Management-System-Group3\\StudentPortal\\StudentPortal\\ViewModels\\BaseViewModel.cs",
               "RelativeDocumentMoniker": "StudentPortal\\ViewModels\\BaseViewModel.cs",

@@ -6,10 +6,12 @@
         <StackPanel Margin="20">
             <Label Content="Name:" />
             <TextBox Text="{Binding Name}" />
-            <Label Content="Email:" />
-            <TextBox Text="{Binding Email}" />
-            <Label Content="Date of Birth:" />
-            <DatePicker SelectedDate="{Binding DateOfBirth}" />
+            <Label Content="Age:" />
+            <TextBox Text="{Binding Age}" />
+            <Label Content="CourseName:" />
+            <TextBox Text="{Binding CourseName}" />
+            <Label Content="ContactNumber:" />
+            <TextBox Text="{Binding ContactNumber}" />
             <Button Content="Add Student" Command="{Binding AddStudentCommand}" Margin="10" />
         </StackPanel>
     </Grid>
