@@ -37,9 +37,22 @@
     </Window.Resources>
 
     <Grid Background="#FFE5E5E5">
+        <StackPanel x:Name="LoginPanel" Visibility="Visible">
+            <Image Source="pack://application:,,,/assets/logo1.jpg" Width="134" Height="124" RenderTransformOrigin="0.503,0.465">
+                <Image.Clip>
+                    <EllipseGeometry Center="67,62" RadiusX="62" RadiusY="62"/>
+                </Image.Clip>
+            </Image>
+            <Label Content="Username:" FontSize="16" />
+            <TextBox x:Name="UsernameTextBox" Width="200" Margin="5"/>
+            <Label Content="Password:" FontSize="16" />
+            <PasswordBox x:Name="PasswordBox" Width="200" Margin="5"/>
+            <Button Content="Login" Click="LoginButton_Click" />
+            <TextBlock x:Name="LoginErrorMessage" Foreground="Red" Margin="5" Visibility="Collapsed"/>
+        </StackPanel>
 
-        <StackPanel>
-             <Button Content="Add Student" Command="{Binding NavigateToAddStudentCommand}" />
+        <StackPanel x:Name="MainOptionsPanel" Visibility="Collapsed">
+            <Button Content="Add Student" Command="{Binding NavigateToAddStudentCommand}" />
             <Button Content="View Students" Command="{Binding NavigateToViewStudentsCommand}" />
             <Button Content="Add Attendance" Command="{Binding NavigateToAddAttendanceCommand}" />
             <Button Content="View Attendance" Command="{Binding NavigateToViewAttendanceCommand}" />
