@@ -271,3 +271,4 @@ D:\studentmanagement\Student-Management-System-Group3\StudentPortal\StudentPorta
 D:\studentmanagement\Student-Management-System-Group3\StudentPortal\StudentPortal\obj\Debug\net8.0-windows\StudentPortal.pdb
 D:\studentmanagement\Student-Management-System-Group3\StudentPortal\StudentPortal\obj\Debug\net8.0-windows\StudentPortal.genruntimeconfig.cache
 D:\studentmanagement\Student-Management-System-Group3\StudentPortal\StudentPortal\obj\Debug\net8.0-windows\ref\StudentPortal.dll
+D:\Conestoga\Software programming - brasil\Student-Management-System-Group3\StudentPortal\StudentPortal\obj\Debug\net8.0-windows\StudentPortal_Content.g.cs

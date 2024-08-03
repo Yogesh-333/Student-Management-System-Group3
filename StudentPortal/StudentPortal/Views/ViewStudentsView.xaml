@@ -56,7 +56,7 @@
     <!-- Set background color for the window -->
     <Grid Background="#FFE5E5E5">
         <StackPanel Margin="20" HorizontalAlignment="Center">
-            <DataGrid ItemsSource="{Binding Students}" AutoGenerateColumns="False" Margin="10" Width="650" Height="300">
+            <DataGrid ItemsSource="{Binding Students}" AutoGenerateColumns="False" Margin="10" Width="650" Height="300" CanUserAddRows="False">
                 <DataGrid.Columns>
                     <DataGridTextColumn Header="ID" Binding="{Binding Id}" Width="100" />
                     <DataGridTextColumn Header="Name" Binding="{Binding Name}" Width="150" />

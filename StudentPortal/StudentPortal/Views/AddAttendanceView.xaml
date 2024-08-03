@@ -57,11 +57,11 @@
             <Label Content="Select Date:" />
             <Calendar x:Name="DatePickerControl" SelectedDate="{Binding Date}" SelectedDatesChanged="Calendar_SelectedDatesChanged"/>
             <Label Content="Students List:" />
-            <DataGrid ItemsSource="{Binding Students}" AutoGenerateColumns="False" Margin="10" Height="200" Width="550">
+            <DataGrid ItemsSource="{Binding Students}" AutoGenerateColumns="False" Margin="10" Height="200" Width="550" CanUserAddRows="False">
                 <DataGrid.Columns>
-                    <DataGridTextColumn Header="ID" Binding="{Binding Id}" Width="100"/>
-                    <DataGridTextColumn Header="Name" Binding="{Binding Name}" Width="250"/>
-                    <DataGridTemplateColumn Header="Present" Width="100">
+                    <DataGridTextColumn Header="ID" Binding="{Binding Id}" Width="*" />
+                    <DataGridTextColumn Header="Name" Binding="{Binding Name}" Width="*" />
+                    <DataGridTemplateColumn Header="Present" Width="*">
                         <DataGridTemplateColumn.CellTemplate>
                             <DataTemplate>
                                 <CheckBox IsChecked="{Binding IsPresent, Mode=TwoWay}" HorizontalAlignment="Center"/>
