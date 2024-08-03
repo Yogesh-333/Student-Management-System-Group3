@@ -1,5 +1,6 @@
 ﻿
 using System;
+using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Input;
 using StudentPortal.Services;
@@ -54,6 +55,8 @@ namespace StudentPortal.MVVM.ViewModels
                 CourseName = CourseName,
                 ContactNumber = ContactNumber
             });
+            MessageBox.Show("Student added successfully!", "Success", MessageBoxButton.OK, MessageBoxImage.Information);
+
         }
     }
 }

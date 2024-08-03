@@ -1,7 +1,8 @@
 <Window x:Class="StudentPortal.Views.EditStudentView"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        Title="Edit Student" Height="450" Width="800">
+        Title="Edit Student" Height="450" Width="800"
+        WindowState="Maximized">
     <Window.Resources>
         <!-- Define some styles for the buttons and other controls -->
         <Style TargetType="Button">

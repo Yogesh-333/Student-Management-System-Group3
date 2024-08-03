@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.ObjectModel;
 using System.Linq;
+using System.Windows;
 using System.Windows.Input;
 using StudentPortal.Models;
 using StudentPortal.Services;
@@ -64,6 +65,8 @@ namespace StudentPortal.MVVM.ViewModels
                 };
                 Database.AddOrUpdateAttendance(attendance);
             }
+            MessageBox.Show("Student attendance updated successfully!", "Success", MessageBoxButton.OK, MessageBoxImage.Information);
+
         }
     }
 
