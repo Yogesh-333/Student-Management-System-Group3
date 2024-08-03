@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-D:\studentmanagement\Student-Management-System-Group3\StudentPortal\StudentPortal\obj\Debug\net8.0-windows\
+D:\Conestoga\Software programming - brasil\Student-Management-System-Group3\StudentPortal\StudentPortal\obj\Debug\net8.0-windows\
 StudentPortal
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
-D:\studentmanagement\Student-Management-System-Group3\StudentPortal\StudentPortal\App.xaml
+D:\Conestoga\Software programming - brasil\Student-Management-System-Group3\StudentPortal\StudentPortal\App.xaml
 61981756670
 
 241309322665
-216-331871085
+21685180731
 MainWindow.xaml;Views\AddAttendanceView.xaml;Views\AddStudentView.xaml;Views\EditStudentView.xaml;Views\ViewAttendanceView.xaml;Views\ViewStudentsView.xaml;
 
 False

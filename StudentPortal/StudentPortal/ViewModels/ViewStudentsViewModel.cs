@@ -45,7 +45,7 @@ namespace StudentPortal.MVVM.ViewModels
             }
 
             // Save the CSV to a file
-            var filePath = @"D:\Conestoga\Software programming - brasil\Student-Management-System-Group3\StudentPortal\students.csv"; // Updated path
+            var filePath = @"D:\students.csv"; // Updated path
             try
             {
                 File.WriteAllText(filePath, csvBuilder.ToString());
